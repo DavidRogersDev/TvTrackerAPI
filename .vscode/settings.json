@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a56944e-3398-4027-b61e-a460e5b377d7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tvtracker-api-for-xam",
+    "appService.deploySubpath": "."
+}
